@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TotalControl</string>
+    <string name="Title">Total Control v1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="Port">Port</string>
+    <string name="Launch">Launch</string>
+    <string name="WOL">WOL</string>
+    <string name="empty">empty</string>
+
+</resources>
